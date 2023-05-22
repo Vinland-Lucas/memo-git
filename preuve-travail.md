@@ -7,3 +7,6 @@
 ## Screenshots "Revenir à la dernière version, la plus récente"
 ![](./screenshot-ingredients.png)
 ![](./screenshot-realisation.png)
+
+## Screenshot "Git Tag"
+![](./screenshot-git-tag.png)
