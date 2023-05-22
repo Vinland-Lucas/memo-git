@@ -5,6 +5,7 @@
 ![](./screenshot-gitlog2.png)
 
 ## Screenshots "Revenir à la dernière version, la plus récente"
+![](./screenshot-git-checkout-main.png)
 ![](./screenshot-ingredients.png)
 ![](./screenshot-realisation.png)
 
