@@ -3,3 +3,7 @@
 
 ## Screenshot "Revenir à une étape antérieur"
 ![](./screenshot-gitlog2.png)
+
+## Screenshots "Revenir à la dernière version, la plus récente"
+![](./screenshot-ingredients.png)
+![](./screenshot-realisation.png)
